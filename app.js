@@ -62,7 +62,7 @@ new Vue({
                 this.checkWin();
                 this.turns.unshift({
                     isPlayer: false,
-                    text: 'Monster Hits Monster for ' + damage  
+                    text: 'Monster Hits for ' + damage  
                    });
             },
             calculateDamage: function(min, max){
