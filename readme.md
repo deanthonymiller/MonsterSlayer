@@ -5,4 +5,4 @@
  ## Technologies
     Vue.js
 
-    (/Users/deanthonymiller/Desktop/Screen Shot 2018-10-28 at 10.39.09 AM.png)
+    (/https://raw.githubusercontent.com/deanthonymiller/MonsterSlayer/master/Screen%20Shot%202018-10-28%20at%2010.39.09%20AM.png)
